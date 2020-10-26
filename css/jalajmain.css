@@ -60,6 +60,10 @@
 	background-color: white !important;
 }
 
+.jumbotron_education {
+  background-color: white !important;
+}
+
 .jumbotron_skills {
 	background: url("../assets/skillsbg.jpg");
 	background-position: center;
